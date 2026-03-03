@@ -71,13 +71,13 @@ Every analysis has limits. Here is what I would want to dig into next:
 
 ## How to Use the Dashboard
 
-Open the link at the top -- it is fully interactive on Tableau Public.
+Open the link at the top it is fully interactive on Tableau Public.
 
 Filter by Platform to compare content strategies. Filter by Content Type to see which formats win on your platform of choice.
 
 ---
 
 Built by Dhrumi Kansara
-MS Business Analytics -- Arizona State University
+MS Business Analytics - Arizona State University
 linkedin.com/in/dhrumikansara
 
