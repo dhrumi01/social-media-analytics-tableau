@@ -1,69 +1,83 @@
-# Social Media Performance and Engagement Analysis
+# Social Media Performance Dashboard
 
-Tools: Tableau Public
-Domain: Social Media Analytics | Marketing Analytics
-Dashboard: https://public.tableau.com/shared/QDMQKMRN3
+> **The question I wanted to answer:** Everyone posts on social media. Almost nobody knows what actually works.
 
-## Why I Built This
+Live Dashboard: https://public.tableau.com/shared/QDMQKMRN3
 
-Social media teams post constantly but rarely stop to ask which content actually works.
-This dashboard tries to answer that -- by looking at engagement rates, virality, sentiment,
-and regional reach across 4 platforms and 8 content types.
+---
 
-## What the Dashboard Shows
+## The Setup
 
-5 views built into one dashboard:
+4 platforms. 8 content types. Thousands of posts.
 
-- Average Engagement Rate by Content Type
-- Viral Posts Distribution by Platform
-- Sentiment Score by Content Category
-- Top Regions by Views
-- Total Engagement by Platform (Likes, Shares, Views, Comments)
+I built this dashboard to cut through the noise and find patterns that a social media team could actually act on not just pretty charts, but answers to real questions.
 
-## Key Findings
+---
 
-**Instagram dominates total engagement**
-Instagram leads across all engagement metrics -- likes, shares, views, and comments --
-by a significant margin over LinkedIn, YouTube, and Medium. This suggests the audience
-is most active and aligned on Instagram compared to other platforms.
+## What I Found
 
-**Feed and Reels drive the highest engagement rates**
-Out of 8 content types, feed posts and reels consistently outperform everything else
-on average engagement rate. Short-form visual content is clearly what audiences respond to.
-Articles and polls sit at the bottom -- useful for thought leadership but not for reach.
+### Instagram is not just winning. It is in a different league.
 
-**Positive sentiment content gets more interaction**
-Across all content categories, positively framed content aligns with stronger
-engagement levels. This is not just a feel-good finding -- it has a real implication:
-negative or neutral framing reduces interaction even when the content quality is high.
+Total likes, shares, views, comments Instagram leads on every single metric by a margin that is hard to ignore. LinkedIn, YouTube, and Medium are not even close on raw engagement.
 
-**Regional performance is highly concentrated**
-A small number of regions drive the majority of views. High-view regions have an
-outsized influence on overall performance metrics, which means regional targeting
-decisions have a much bigger impact than most teams realize.
+The implication: if a team is splitting budget and effort equally across platforms, they are leaving a lot on the table.
 
-## My Takeaways for a Social Media Team
+---
 
-1. Put budget behind Reels and Feed content -- they earn it back in engagement
-2. Do not spread posting evenly across all platforms -- Instagram deserves more resources
-3. Frame content positively -- it measurably improves interaction rates
-4. Identify your top 3 regions by views and create content specifically for them
-5. Use articles and polls for LinkedIn thought leadership, not Instagram reach
+### Reels and Feed posts are doing all the heavy lifting.
 
-## What I Would Add With More Data
+Out of 8 content types, these two sit clearly above everything else on average engagement rate. The gap between Reels and something like a poll or article is not small it is dramatic.
 
-- Time-of-day analysis -- when does each content type perform best?
-- Follower growth rate alongside engagement -- high engagement on a shrinking audience is a red flag
-- Cost per engagement if paid promotion data was available -- organic vs paid breakdown
-- Cohort analysis -- do the same users engage repeatedly or is it always new audiences?
+Short-form visual content wins. Every time. The data does not leave much room for debate here.
 
-## How to View
+---
 
-Click the Tableau Public link above -- the dashboard is fully interactive.
-Filter by Platform or Content Type to explore specific segments.
+### The sentiment finding is the most interesting one.
 
-## Connect
+Positive sentiment content consistently gets more interaction than neutral or negative content across all categories, not just one or two.
 
-LinkedIn: linkedin.com/in/dhrumikansara
-Email: dkansar4@asu.edu
-GitHub: github.com/dhrumi01
+This matters because most teams think about sentiment as a brand safety issue. The data says it is actually a performance issue. How you frame content changes how many people engage with it.
+
+---
+
+### A handful of regions drive most of the views.
+
+The regional breakdown showed something most teams do not pay attention to: a small number of high-view regions account for a disproportionate share of overall performance.
+
+Which means if you are not creating content with those regions in mind, your numbers will always have a ceiling on them.
+
+---
+
+## What I Would Tell the Team
+
+- **Stop posting evenly across platforms.** Instagram deserves more. The data is clear.
+- **Reels first, always.** If you have one piece of content, make it a Reel before anything else.
+- **Reframe how you think about sentiment.** It is not just about brand safety it drives clicks.
+- **Pick your top 3 regions and own them.** Generic global content underperforms regional content consistently.
+- **Articles and polls have a place -- but it is LinkedIn, not Instagram.** Use the right format for the right platform.
+
+---
+
+## What This Dashboard Does Not Tell Me (Yet)
+
+Every analysis has limits. Here is what I would want to dig into next:
+
+- **Cost per engagement** organic reach is great but what about paid? Are we getting value?
+- **Time of day patterns** when does each content type peak? Scheduling matters.
+- **Repeat vs new audience engagement** are the same people engaging every time or is reach growing?
+- **Follower growth alongside engagement** high engagement on a shrinking audience is a warning sign, not a win.
+
+---
+
+## How to Use the Dashboard
+
+Open the link at the top -- it is fully interactive on Tableau Public.
+
+Filter by Platform to compare content strategies. Filter by Content Type to see which formats win on your platform of choice.
+
+---
+
+Built by Dhrumi Kansara
+MS Business Analytics -- Arizona State University
+linkedin.com/in/dhrumikansara
+
