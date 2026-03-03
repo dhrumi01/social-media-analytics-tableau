@@ -79,5 +79,6 @@ Filter by Platform to compare content strategies. Filter by Content Type to see 
 
 Built by Dhrumi Kansara
 MS Business Analytics - Arizona State University
-linkedin.com/in/dhrumikansara
+
+Linkedin: https://www.linkedin.com/in/dhrumikansara/
 
